@@ -51,8 +51,8 @@ NEGATIVAS:
 
 Aumenta la volumen de nuestro código.
 
-```
-/ En primer lugar definiremos la interfaz Command
+```java
+// En primer lugar definiremos la interfaz Command
 
 public interface Command{
 
